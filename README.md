@@ -1,5 +1,7 @@
-- text in red
 # Axel Bouteiller - Technical skills - Cristalens
+```diff
+  text in red
+
 
 Epson robots (RC+ software)
 ---------------------------

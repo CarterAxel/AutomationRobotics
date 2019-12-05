@@ -10,7 +10,7 @@ Epson robots (RC+ software)
   - https://github.com/CarterAxel/AutomationRobotics/blob/master/ExampleEpson6axesRobotMovement
 
 * Software interface :
-  - ![example.png](https://user-images.githubusercontent.com/58557043/70246595-463ae280-1778-11ea-8ebc-99046bbfda8b.png)
+  - ![ .png](https://user-images.githubusercontent.com/58557043/70246595-463ae280-1778-11ea-8ebc-99046bbfda8b.png)
 
 
 Unitronics PLC (Unilogic software)

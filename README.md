@@ -27,7 +27,11 @@ Unitronics PLC (Unilogic software)
   ![ .png](https://user-images.githubusercontent.com/58557043/70248343-09241f80-177b-11ea-828e-31012216fec7.png)
 
 
-
+File Transfer Protocol (FileZilla software)
+-------------------------------------------
+  ![ .png](file:///C:/Users/Carter/Downloads/unnamed.jpg)
+  
+  
 
 Image recognition technology (Keyence software)
 -----------------------------------------------
@@ -54,3 +58,13 @@ Grafcet method (EdiTSAB software)
 Electrical cabinet diagram (Winrelais software)
 -----------------------------------------------
   ![ .png](https://user-images.githubusercontent.com/58557043/70247610-ec3b1c80-1779-11ea-98c5-cefd4d651f94.png)
+  
+  
+  
+Computerized maintenance management system CMMS (www.capilog.com)
+-----------------------------------------------------------------
+  ![ .png](https://user-images.githubusercontent.com/58557043/70650662-cddc9180-1c4f-11ea-930b-8e7a2bcb9c00.png)
+  
+  ![ .png](https://user-images.githubusercontent.com/58557043/70650656-cc12ce00-1c4f-11ea-95b5-1ef39332da32.png)
+  
+

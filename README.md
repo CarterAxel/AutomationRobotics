@@ -36,8 +36,6 @@ File Transfer Protocol (FileZilla software)
 Image recognition technology (Keyence software)
 -----------------------------------------------
   ![ .png](https://user-images.githubusercontent.com/58557043/70248554-57392300-177b-11ea-98fe-95512757ceea.png)
-  
-  ![ .png](https://user-images.githubusercontent.com/58557043/70249814-3bcf1780-177d-11ea-80e7-245c7f7863fb.png)
  
   ![ .png](https://user-images.githubusercontent.com/58557043/70249086-2c030380-177c-11ea-803d-084998c1c3f6.png)
   
